@@ -1,0 +1,14 @@
+input {
+    margin: 10px;
+}
+
+#submitButton {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#sortButton {
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
